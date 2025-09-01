@@ -48,7 +48,7 @@
 - 🧠 **Natural Language Processing (NLP)**  
 - 🛠️ **Building APIs with Express.js**  
 - 🔧 **Automating workflows using GitHub Actions**  
-- 💡 **Making mini-projects from YouTube tutorials and iterating on them**
+- 💡 **Making projects from YouTube tutorials and iterating on them**
 
 ---
 
