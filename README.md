@@ -55,7 +55,8 @@
 ### 🌐 Connect With Me
 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaubeysatyam449@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=chaubeysatyam449@gmail.com)
+
 
 
 ---
