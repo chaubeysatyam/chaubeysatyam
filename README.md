@@ -1,3 +1,5 @@
+# Hi, I am Satyam Chaubey.
+
 <!-- Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+SATYAM+CHAUBEY!;First-Year+B.Tech+AI+%26+ML+Student;Exploring+Web+Dev+%7C+AI+%7C+Automation;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
