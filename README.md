@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm **SATYAM CHAUBEY**, a **first-year B.Tech student** specializing in **AI & Machine Learning**
+🎓 I'm **SATYAM CHAUBEY**, a **first-year B.Tech student** specializing in **AI & Machine Learning**                              
 🌱 Currently learning through **projects, practice, and tutorials** while building my foundation in programming and AI  
 🛠️ I enjoy experimenting with **web technologies**, **AI tools**, and **automation scripts** to create useful projects  
 🚀 My focus is on **learning by doing** — making small but impactful projects and improving every day  
