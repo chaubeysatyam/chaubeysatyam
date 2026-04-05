@@ -1,67 +1,111 @@
-# Hi, I am Satyam Chaubey.
 
-<!-- Typing Banner -->
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+SATYAM+CHAUBEY!;First-Year+B.Tech+AI+%26+ML+Student;Exploring+Web+Dev+%7C+AI+%7C+Automation;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F700,00C9A7,0085FF&height=200&section=header&text=Satyam%20Chaubey&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F700&center=true&vCenter=true&width=700&lines=Hi+I'm+Satyam+Chaubey;AI+%7C+Web+Dev+%7C+Automation+%7C+Machine+Learning;Building+Cool+Stuff" />
+</p>
+
+
+## 👨‍💻 About Me
+
+```python
+class Satyam:
+    def __init__(self):
+        self.name = "Satyam Chaubey"
+        self.education = "B.Tech in AI & Machine Learning (1st Year)"
+        self.passion = ["AI", "Web Dev", "Automation", "Machine Learning"]
+
+    def mission(self):
+        return "Learn → Build → Innovate → Impact"
+````
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/chaubeysatyam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/satyam-chaubey-14b581388/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:chaubeysatyam449@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-🎓 I'm **SATYAM CHAUBEY**, a **first-year B.Tech student** specializing in **AI & Machine Learning**                              
-🌱 Currently learning through **projects, practice, and tutorials** while building my foundation in programming and AI  
-🛠️ I enjoy experimenting with **web technologies**, **AI tools**, and **automation scripts** to create useful projects  
-🚀 My focus is on **learning by doing** — making small but impactful projects and improving every day  
-📚 My journey is just getting started, but I am passionate about becoming a **skilled AI/ML engineer and full-stack developer**  
-
----
-
-### 🛠️ Tech Stack (Growing Every Day and Learning)
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-
-> 🧠 *I’m still learning these technologies and improving with every project I build.*
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chaubeysatyam&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chaubeysatyam&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=chaubeysatyam&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 📚 Currently Learning
+## 🛠️ Tech Stack
 
-- 🤖 **Deep Learning & PyTorch (Basics)**  
-- 🧠 **Natural Language Processing (NLP)**  
-- 🛠️ **Building APIs with Express.js**  
-- 🔧 **Automating workflows using GitHub Actions**  
-- 💡 **Making projects from YouTube tutorials and iterating on them**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql,nodejs,git,github&theme=dark" />
+</p>
 
 ---
 
-### 🌐 Connect With Me
+## 📊 Skill Progress
 
+<p align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=chaubeysatyam449@gmail.com)
+| Skill        | Proficiency       | Visual         |
+|--------------|------------------|----------------|
+| Python       | 🟡 Intermediate  | ██████░░░░ 60% |
+| JavaScript   | 🟡 Intermediate  | ██████░░░░ 60% |
+| HTML/CSS     | 🟡 Intermediate  | ██████░░░░ 60% |
+| Git/GitHub   | 🟡 Learning      | ████░░░░░░ 40% |
+| SQL          | 🟡 Intermediate  | █████░░░░░ 50% |
+| Node.js      | 🟡 Intermediate  | █████░░░░░ 50% |
 
-
+</p>
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=chaubeysatyam)
+## 🚀 What I'm Doing
+
+* 🤖 Building AI projects
+* 🌐 Learning full-stack development
+* ⚡ Automating workflows
+* 📊 Exploring ML & NLP
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaubeysatyam&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🌟 Quote
+
+> "Code. Learn. Repeat. Impact."
+
+---
+
+<!-- Footer -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0085FF,00C9A7,00F700&height=100&section=footer"/>
+</p>
+
 
