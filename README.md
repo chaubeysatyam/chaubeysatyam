@@ -73,7 +73,7 @@ class Satyam:
 | HTML/CSS     | 🟡 Intermediate  | ██████░░░░ 60% |
 | Git/GitHub   | 🟡 Learning      | ████░░░░░░ 40% |
 | SQL          | 🟡 Intermediate  | █████░░░░░ 50% |
-| Node.js      | 🟡 Intermediate  | █████░░░░░ 50% |
+| Node.js      | 🟡 Learning      | █████░░░░░ 50% |
 
 </p>
 
